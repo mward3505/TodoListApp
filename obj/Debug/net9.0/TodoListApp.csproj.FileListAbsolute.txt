@@ -1,0 +1,14 @@
+/Users/mward/Documents/Development/personal/TodoListApp/bin/Debug/net9.0/TodoListApp
+/Users/mward/Documents/Development/personal/TodoListApp/bin/Debug/net9.0/TodoListApp.deps.json
+/Users/mward/Documents/Development/personal/TodoListApp/bin/Debug/net9.0/TodoListApp.runtimeconfig.json
+/Users/mward/Documents/Development/personal/TodoListApp/bin/Debug/net9.0/TodoListApp.dll
+/Users/mward/Documents/Development/personal/TodoListApp/bin/Debug/net9.0/TodoListApp.pdb
+/Users/mward/Documents/Development/personal/TodoListApp/obj/Debug/net9.0/TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mward/Documents/Development/personal/TodoListApp/obj/Debug/net9.0/TodoListApp.AssemblyInfoInputs.cache
+/Users/mward/Documents/Development/personal/TodoListApp/obj/Debug/net9.0/TodoListApp.AssemblyInfo.cs
+/Users/mward/Documents/Development/personal/TodoListApp/obj/Debug/net9.0/TodoListApp.csproj.CoreCompileInputs.cache
+/Users/mward/Documents/Development/personal/TodoListApp/obj/Debug/net9.0/TodoListApp.dll
+/Users/mward/Documents/Development/personal/TodoListApp/obj/Debug/net9.0/refint/TodoListApp.dll
+/Users/mward/Documents/Development/personal/TodoListApp/obj/Debug/net9.0/TodoListApp.pdb
+/Users/mward/Documents/Development/personal/TodoListApp/obj/Debug/net9.0/TodoListApp.genruntimeconfig.cache
+/Users/mward/Documents/Development/personal/TodoListApp/obj/Debug/net9.0/ref/TodoListApp.dll
